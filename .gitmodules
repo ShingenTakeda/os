@@ -1,0 +1,6 @@
+[submodule "docs/os-blog/themes/ananke"]
+	path = docs/os-blog/themes/ananke
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
+[submodule "docs/os-blog/themes/hugo-theme-shell"]
+	path = docs/os-blog/themes/hugo-theme-shell
+	url = https://github.com/Yukuro/hugo-theme-shell.git
